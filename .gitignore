@@ -1,0 +1,16 @@
+# Eclipse / IDE
+.metadata/
+.recommenders/
+.settings/
+Servers/
+
+# Build output
+build/
+bin/
+target/
+
+# Java
+*.class
+
+# OS
+.DS_Store
